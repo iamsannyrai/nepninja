@@ -1,9 +1,7 @@
-import { Footer } from "../components/footer";
-import { Navbar } from "../components/navbar";
+import AppLayout from '../components/layout'
 
 export default function Home() {
-  return <div>
-    <Navbar />
-    <Footer />
-  </div>
+  return <AppLayout>
+
+  </AppLayout>
 }
