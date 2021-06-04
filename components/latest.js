@@ -7,6 +7,6 @@ export function LatestBlog({ blog }) {
         <div className="my-4">
             <p>{blog.subtitle}</p>
         </div>
-        <Image src={latest.image} height={400} width={500} />
+        <Image src={blog.image} height={400} width={500} />
     </div>
 }
