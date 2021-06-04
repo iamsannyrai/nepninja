@@ -2,7 +2,6 @@ import Link from "next/link"
 import Image from "next/image"
 import ReadableDate from "./utility/date_utility";
 
-
 export function BlogItem({ blog }) {
     return <div>
         <div className="flex mb-4 h-100">
