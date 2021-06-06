@@ -9,7 +9,7 @@ export function BlogItem({ blog }) {
                 <Image src={blog.image} height={80} width={80} className="rounded-md" />
             </div>
             <div>
-                <Link href="/"><a className="font-semibold text-lg font-serif hover:text-blue-500">{blog.title}</a></Link>
+                <Link href={`/blogs/${blog.id}`}><a className="font-semibold text-lg font-serif hover:text-blue-500">{blog.title}</a></Link>
                 <p className="text-gray-700">{blog.subtitle}</p>
                 <span className="text-sm font-light mt-4"><ReadableDate dateString={blog.date} /></span>
             </div>
