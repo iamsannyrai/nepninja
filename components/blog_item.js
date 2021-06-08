@@ -4,7 +4,7 @@ import ReadableDate from "./utility/date_utility";
 
 export function BlogItem({ blog, isLast }) {
     return <div className="flex mb-4 h-100 border rounded-lg px-4 py-2">
-        <div className="flex-shrink-0 mr-6 mt-2">
+        <div className="flex-shrink-0 mr-4 mt-2">
             <Image src={blog.image} height={80} width={80} className="rounded" />
         </div>
         <div>
