@@ -3,6 +3,7 @@ title: 'Async Await in JavaScript'
 subtitle: 'Async Await makes working with promises easier and fun.'
 date: '2020-02-15'
 keywords: 'asynchronous, async-await, promises, javascript, node, react, fetch'
+category: 'JavaScript'
 image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 This blog is a follow up from my last blog in which I talked about promises. If you are unfamiliar with promises in JavaScript, please read <a href='https://bigomega.dev/promises' target='_blank'>that article</a> before reading this one. Also, some familiarity with exception handling would be useful.

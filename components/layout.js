@@ -13,7 +13,7 @@ export default function AppLayout({ child }) {
             <meta name="description" content="NepNinja Blog" />
         </Head>
         <Navbar />
-        <main>{child}</main>
+        <main className="md:mx-32">{child}</main>
         <Footer />
     </>
 }

@@ -12,7 +12,7 @@ export async function getStaticProps() {
   return {
     props: {
       latestBlog: blogList[0],
-      blogList: blogList.slice(1,5)
+      blogList: blogList.slice(1,4)
     }
   }
 }

@@ -3,7 +3,8 @@ title: "A bash script with Node.JS"
 subtitle: "Create a bash script with JS to create .prettierrc file with necessary configurations"
 date: '2020-11-23'
 keywords: "Node, bash, CLI, commandline, script"
-image: "https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80"
+category: "JavaScript"
+image: "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504&q=80"
 ---
 
 JavaScript is a scripting language, therefore you can write scripts to automate your workflow with JavaScript.
