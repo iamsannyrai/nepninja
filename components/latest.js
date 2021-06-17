@@ -11,7 +11,7 @@ export function LatestBlog({ blog }) {
     return <div>
         <h1 className="font-body">MOST RECENT</h1>
         <div className="mt-6">
-            <Image src={blog.image} height={400} width={550} className="rounded-sm" />
+            <Image src={blog.image} height={400} width={550}/>
         </div>
         <div className="my-4 flex text-xs space-x-4">
             <div className="text-subtitle self-center"><ReadableDate dateString={blog.date} /></div>

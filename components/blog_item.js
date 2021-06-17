@@ -11,7 +11,7 @@ export function BlogItem({ blog, isLast }) {
 
     return <div className="flex mb-4 h-100  rounded-sm px-4">
         <div className="flex-shrink-0 mr-4 mt-2">
-            <Image src={blog.image} height={80} width={80} className="rounded-sm" />
+            <Image src={blog.image} height={80} width={80} />
         </div>
         <div>
             <Link href={`/blogs/${blog.id}`}><a className="font-semibold text-lg font-body text-title">{blog.title}</a></Link>
