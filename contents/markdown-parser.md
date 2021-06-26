@@ -1,9 +1,9 @@
 ---
 title: 'Simple Markdown Parser with JavaScript and Regular Expressions'
-subtitle: 'By the completion of this blog, you will have a function that takes in a markdown text and return a HTML text.'
+description: 'By the completion of this blog, you will have a function that takes in a markdown text and return a HTML text.'
 date: '2020-08-21'
 keywords: 'Regular Expression, JavaScript, Markdown, Compiler, Parser, RegEx'
-image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
+thumbnail: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 
 Markdown is a markup language like HTML. It is quite popular among developers to write blogs, readme files, documentation and blogs. Some of the popular websites that support rich text like Reddit, GitHub, Notion etc allow you to write markdown. I use markdown to convert my blog from a markdown file to HTML web pages. Markdown is simple yet very powerful. In this blog, I will be writing about how to build a simple markdown parser to convert md to HTML with JavaScript using Regular Expressions.

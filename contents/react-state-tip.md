@@ -1,9 +1,9 @@
 ---
 title: "A minor error we make while creating a React's state"
-subtitle: "This blog explains about a silly error people make while doing a project in React"
+description: "This blog explains about a silly error people make while doing a project in React"
 date: "2019-12-28"
 keywords: "React, JavaScript, React.js, state, hooks"
-image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
+thumbnail: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 
 A state in react doesn't have a type. A counter can hold a value of a number at an instance and it can be changed into something else like a string in another instance. Doing this causes no errors and there isn't one either.

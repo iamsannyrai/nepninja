@@ -1,9 +1,9 @@
 ---
 title: 'Promises in JavaScript'
-subtitle: 'Promise is an awesome feature that exists on JavaScript. This blog covers how promises can be implemented on our applications'
+description: 'Promise is an awesome feature that exists on JavaScript. This blog covers how promises can be implemented on our applications'
 date: '2020-02-11'
 keywords: 'asynchronous, async-await, promises, javascript, node, react, fetch'
-image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
+thumbnail: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 
 Promises in JavaScript behave similarly to promises we make normally to people. It's something like **you'll get great score if submit your assignments on time.** In this example, if the student submits his assignments on time, the promise made to him gets fulfilled else, it will not. In JavaScript, promises let us handle tasks that might happen in the future. This concept is really important while doing tasks like making **network requests**, as we're not certain if the request gets resolved or not.

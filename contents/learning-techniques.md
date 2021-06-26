@@ -1,9 +1,9 @@
 ---
 title: "Techniques For Learning a New Technology Or a New Tool"
-subtitle: "In this blog, I talk about different learning techniques that works best to learn a new tool or technology"
+description: "In this blog, I talk about different learning techniques that works best to learn a new tool or technology"
 date: '2019-08-27'
 keywords: "technology, framework, language, tool, learning, tutorials, documentation, mentor"
-image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
+thumbnail: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 
 In the field of technology, there is always so much to learn and explore. Most of us get overwhelmed by the number of technologies that we want to or need to learn. We all have been in a situation where we have learnt a technology or a tool but only that tool might not be enough to create a project that we want to complete. There might not be the necessity to learn but still, we push ourselves to learn new technology or more technologies that we have not used before due to the fear that something else might be the next big thing and you might have to switch in a rush. We also learn new technology or tool to become problem solvers, not just a trained professional who specializes in using a particular tool. So, what approach to take while learning a new tool or technology? I am going to say a few techniques that I have tried. I am also going to say if it is appropriate or not. I hope it helps you.

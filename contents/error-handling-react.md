@@ -1,9 +1,9 @@
 ---
 title: "Error handling while making AJAX requests in JavaScript"
-subtitle: "Handling major errors that might occur while making AJAX requests via axios or similar technology"
+description: "Handling major errors that might occur while making AJAX requests via axios or similar technology"
 date: "2020-01-21"
 keywords: "React.JS, Error Handling, Axios, Fetch, API, AJAX"
-image: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
+thumbnail: 'https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80'
 ---
 
 Error handling is vital while making AJAX requests in any tool. The solution I propose can be applicable for all kinds of frameworks or libraries. I am used to working with React.JS and in this blog, I talk about the approach I use handling errors that occur during AJAX requests.
